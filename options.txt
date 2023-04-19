@@ -1,0 +1,2 @@
+temps_avant_le_lancement_d'un_tour: 1
+vitesse: 1000000
